@@ -3,5 +3,5 @@
 let txt=document.getElementById("status");
 function change()
 {
-	txt.innerHTML="Entered Metaverse";
+	txt.innerHTML="<h1>Entered Metaverse</h1>";
 }
